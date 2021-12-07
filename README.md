@@ -10,11 +10,11 @@ Session | Date  | Topic                                                         
 5       | 09/30 | Pandas - Accessing rows, columns, cells, and query                  | Survey Data
 6       | 10/07 | Pandas - Groupby, Merge/Concat/Join, Pivot, & tidy data             | Survey Data
 7       | 10/14 | Dataviz - Matplotlib, Seaborn, Plotly, distro (histogram/boxplot)   | Survay Data
-8       | 10/21 | Plotly - Ranking/Part-of-Whole (bar, pie, pareto, sunburst)         | WDX, EzAnalytix.com
-9       | 10/28 | Plotly - Association (scatter, heatmap, pairwise scatter)           | WDX, Outside speaker
+8       | 10/21 | Plotly - Ranking/Part-of-Whole (bar, pie, pareto, sunburst)         | WDX
+9       | 10/28 | Plotly - Association (scatter, heatmap, pairwise scatter)           | WDX
 10      | 11/04 | Plotly - Geospatial & Time Series (Choropleth, Line)                | WDX
-11      | 11/11 | Inferential Statistics - Probability, LLN, & CLT                    | Individual Project Part A Due
-12      | 11/18 | Inferential Statistics - Point and Interval Estimation              |
+11      | 11/11 | Inferential Statistics - Probability, Normal Dist. LLN, & CLT       | Individual Project Part A Due
+12      | 11/18 | Inferential Statistics - Point and Interval Estimation              | Outside Speaker - EzAnalytix.com
 HOLIDAY | 11/25 | Thanksgiving, NO CLASS                                              | Happy Holiday!
-13      | 12/02 | Inferential Statistics - Hypothesis Testing                         | Individual Project Part B Due
-14      | 12/09 | Summary & Conclusion                                                | pythonanywhere.com, bash, Python scripts, pip, venv
+13      | 12/02 | Inferential Statistics - Hypothesis Testing using EZAnalytix.com    | 
+14      | 12/09 | pythonanywhere.com - bash, Python scripts, pip, venv                | Last Class, Hooray!                               | 
